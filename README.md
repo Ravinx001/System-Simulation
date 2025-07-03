@@ -239,7 +239,7 @@ rr_config = {
 
 A comprehensive academic report detailing the theoretical foundation, design decisions, and result analysis is included:
 
-📘 **`Report.pdf`**
+📘 **[Report.pdf](./docs/Report.pdf)**
 
 **Report Contents:**
 - Background theory on ILP, TLP, pipelining, superscalar, and SMT/CMP
